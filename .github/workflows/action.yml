@@ -1,4 +1,4 @@
-- name: markdown-link-check
+name: markdown-link-check
 
 on: push
 
