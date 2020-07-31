@@ -1,4 +1,4 @@
-name: markdown-link-check
+name: Verify Markdown Hyperlinks
 
 on: push
 
@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@1.0.4
-      with: 
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
         use-verbose-mode: 'yes'
