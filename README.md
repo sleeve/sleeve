@@ -1,4 +1,4 @@
-### Hi there! 👋🏼 <img align="right" width="249" height="186" src="https://raw.githubusercontent.com/sleeve/sleeve/master/images/bill_sick_jump.gif">
+### Hi there! 👋 <img align="right" width="249" height="186" src="https://raw.githubusercontent.com/sleeve/sleeve/master/images/bill_sick_jump.gif">
 
 I go by **Steve** or **sleeve** and use **he/him** pronouns.
 
