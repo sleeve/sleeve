@@ -1,4 +1,4 @@
-### Yooooo, what up! 🤟
+### Hey there! 👋
 
 I go by **Steve** or **sleeve** and use **he/him** pronouns.
 
